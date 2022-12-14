@@ -8,7 +8,7 @@ GetEqlElemsForMinOpers
 
 **ПРОГРАММНЫЙ КОД:**
 
-Исходный программный код содержится в файле *src/GetEqlElemsForMinOpers.java*.
+Исходный программный код содержится в файле *src\GetEqlElemsForMinOpers.java*.
 
 **НАЗНАЧЕНИЕ:**
 
